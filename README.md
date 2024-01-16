@@ -2,7 +2,7 @@
 
 This part of my introductory to vue JS.
 
-This is a task managing app that allows a user to add tasks and update them. The tasks are however not persisted as there is no backend, they are just managed on the UI.
+This is a task managing app that allows a user to add tasks, delete them and update the reminder. The tasks that the users have set a reminder have a green border to them. The tasks are however not persisted as there is no backend, they are just managed on the UI.
 
 The developed app:
 
